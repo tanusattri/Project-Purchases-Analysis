@@ -1,2 +1,3 @@
-# Project-Purchases-Analysis
-SQL based project.
+# Project Purchases Analysis 
+
+### Table of Contents
